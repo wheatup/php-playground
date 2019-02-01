@@ -8,8 +8,6 @@
 	<link rel="stylesheet" type="text/css" media="screen" href="./css/main.css" />
 </head>
 <body>
-	<h1 class="heading">
-		<?php echo('Hello World!'); ?>
-	</h1>
+	
 </body>
 </html>
