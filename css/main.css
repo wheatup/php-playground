@@ -1,0 +1,13 @@
+html body {
+  margin: 0;
+  padding: 0; }
+
+* {
+  box-sizing: content-box; }
+
+body {
+  background-color: #678;
+  color: #fff; }
+
+.heading {
+  text-align: center; }
